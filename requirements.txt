@@ -1,0 +1,7 @@
+# Hugging Face 的核心套件
+diffusers
+transformers
+accelerate
+
+# 影像處理套件
+opencv-python
